@@ -1,3 +1,3 @@
-# projects
+# testing-project-rpi-swift
 
-A description of this package.
+My first test using Swift on a Raspberry Pi
